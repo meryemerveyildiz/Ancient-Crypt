@@ -28,7 +28,7 @@ Takım X 83
 
 ## Ürün Açıklaması
 
--Ancient Crypt, Steam platformu için geliştirdiğimiz bir projedir. Oyunculara korku ve gerilim dolu saatler sunmayı hedefliyoruz. Ana karakterimiz Anibus'tan ve mumyalardan kaçarken Horus ve sürpriz karakterler kaçmasına yardım edecek. 
+-Ancient Crypt, Steam platformu için geliştirdiğimiz bir projedir. Oyunculara korku ve gerilim dolu saatler sunmayı hedefliyoruz. Ana karakterimiz, Anibus'tan ve mumyalardan kaçarken Horus ve sürpriz karakterler kaçmasına yardım edecek. 
 
 
 ## Ürün Özellikleri
