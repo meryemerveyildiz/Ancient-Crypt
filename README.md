@@ -37,7 +37,7 @@ Takım X 83
 
 -Kendi en iyi skoruna bakabilme
 
--En az 2 level
+-4 level
 
 -Çerezler
 
@@ -48,4 +48,9 @@ Takım X 83
 
 -Korku, gerilim, kaçış oyunu severler
 
--15 - 65 yaş arası kullanıcılar
+-12 - 65 yaş arası kullanıcılar
+
+# Sprint 1
+
+https://github.com/meryemerveyildiz/Ancient-Crypt-Game/blob/main/Sprint-Scrum-Documents/DailyScrum.docx
+https://github.com/meryemerveyildiz/Ancient-Crypt-Game/blob/main/Sprint-Scrum-Documents/Sprint1.docx
