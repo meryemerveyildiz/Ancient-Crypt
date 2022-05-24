@@ -50,14 +50,52 @@ Takım X 83
 
 -12 - 65 yaş arası kullanıcılar
 
+## Product Backlog URL
+
+[Trello Backlog Board](https://trello.com/b/0vQ6A5Nx/ancient-crypt)
+
+---
+
+
 # Sprint 1
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 30 Puan
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 103 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 30 ile başlaması gerektiğine karar verildi.
 
-https://github.com/meryemerveyildiz/Ancient-Crypt-Game/blob/main/Sprint-Scrum-Documents/DailyScrum.docx
-https://github.com/meryemerveyildiz/Ancient-Crypt-Game/blob/main/Sprint-Scrum-Documents/Sprint1.docx
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak görevlere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır.  
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür.
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord ve Whatsapp üzerinden yapılmasına karar verilmiştir. Ama haftada mutlaka 2 veya 3 kez uzun görüntülü görüşmeler yapıyoruz. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/meryemerveyildiz/Ancient-Crypt-Game/blob/main/Sprint-Scrum-Documents/DailyScrum.docx)
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1](https://github.com/meryemerveyildiz/Ancient-Crypt-Game/blob/main/Sprint-Scrum-Documents/Sprint_board/board.png)
+
+- **Ürün Durumu**: Ekran görüntüleri:
+  ![Screenshot 1](https://github.com/meryemerveyildiz/Ancient-Crypt-Game/blob/main/Urun_Durumu/unity.png)
+  ![Screenshot 1](https://github.com/meryemerveyildiz/Ancient-Crypt-Game/blob/main/Urun_Durumu/unity1.png)
+  
+  - **Sprint Review**: 
+Genel olarak bu hafta “nasıl başlamalıyız?” " sorusuna cevap aradık. Fikir ayrılıkları olsa da ortak paydada buluşarak oyunun senaryosunu ve tasarımını bir an önce yapma kararı aldık.
+
+-**Buradan hareketle;**
+
+- Senarno belirlendi
+-	Tasarıma başlandı
+-	iş bölümü yapıldı
+-	Ana karakterin karakter belirlendi
+
+
+-**Sprint Retrospective:**
+ 
+- **Sprintte haftalık değerlendirmeler yapıldı.**
+  -	Merve input sisteme başladı
+  -	Erkan ve Bedia level tasarımına başladı
+  -	Merve ve Sıla gerekli belgeler için araştırma ve düzenleme yaptı
+  -	Oyunun tasarım hallerine bakıldı.
+  -	Verimli bir hafta olduğu ve hızlı hareket edebildiğimiz için mutluyuz
+
 
 # Sprint 2
 
@@ -71,7 +109,7 @@ https://github.com/meryemerveyildiz/Ancient-Crypt-Game/blob/main/Sprint-Scrum-Do
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord ve Whatsapp üzerinden yapılmasına karar verilmiştir. Ama haftada mutlaka 2 veya 3 kez uzun görüntülü görüşmeler yapıyoruz. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/meryemerveyildiz/Ancient-Crypt-Game/blob/main/Sprint-Scrum-Documents/DailyScrum_Sprint2.docx)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord ve Whatsapp üzerinden yapılmasına karar verilmiştir. Ama haftada mutlaka 2 veya 3 kez uzun görüntülü görüşmeler yapıyoruz. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/meryemerveyildiz/Ancient-Crypt-Game/blob/main/Sprint-Scrum-Documents/DailyScrum_Sprint2.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://github.com/meryemerveyildiz/Ancient-Crypt-Game/blob/main/Sprint-Scrum-Documents/Sprint_board/board.png)
@@ -86,8 +124,6 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür.
   ![Screenshot 1](https://github.com/meryemerveyildiz/Ancient-Crypt-Game/blob/main/Urun_Durumu/blender2.jpeg)
   ![Screenshot 1](https://github.com/meryemerveyildiz/Ancient-Crypt-Game/blob/main/Urun_Durumu/blender3.jpeg)
   ![Screenshot 1](https://github.com/meryemerveyildiz/Ancient-Crypt-Game/blob/main/Urun_Durumu/blender4.jpeg)
-  ![Screenshot 1](https://github.com/meryemerveyildiz/Ancient-Crypt-Game/blob/main/Urun_Durumu/unity.png)
-  ![Screenshot 1](https://github.com/meryemerveyildiz/Ancient-Crypt-Game/blob/main/Urun_Durumu/unity1.png)
   ![Screenshot 1](https://github.com/meryemerveyildiz/Ancient-Crypt-Game/blob/main/Urun_Durumu/unity2.png)
   ![Screenshot 1](https://github.com/meryemerveyildiz/Ancient-Crypt-Game/blob/main/Urun_Durumu/unity3.jfif)
   ![Screenshot 1](https://github.com/meryemerveyildiz/Ancient-Crypt-Game/blob/main/Urun_Durumu/unity4.jfif)
