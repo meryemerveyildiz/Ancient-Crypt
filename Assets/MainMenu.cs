@@ -13,7 +13,7 @@ public class MainMenu : MonoBehaviour
 
     public void StartGame()
     {
-        SceneManager.LoadScene("pharoh con.");
+        SceneManager.LoadScene("intro");
     }
 
 }
